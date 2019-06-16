@@ -1,0 +1,4 @@
+C:\Users\linki.LINKI_SYSTEM\OneDrive\Документы\Projects\VS13\FirstVM\FirstVM\bin\Release\FirstVM.dll
+C:\Users\linki.LINKI_SYSTEM\OneDrive\Документы\Projects\VS13\FirstVM\FirstVM\bin\Release\FirstVM.pdb
+C:\Users\linki.LINKI_SYSTEM\OneDrive\Документы\Projects\VS13\FirstVM\FirstVM\obj\Release\FirstVM.dll
+C:\Users\linki.LINKI_SYSTEM\OneDrive\Документы\Projects\VS13\FirstVM\FirstVM\obj\Release\FirstVM.pdb

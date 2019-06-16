@@ -1,0 +1,7 @@
+C:\Users\linki.LINKI_SYSTEM\OneDrive\Документы\Projects\VS13\FirstVM\FirstVMTester\bin\Release\FirstVMTester.exe
+C:\Users\linki.LINKI_SYSTEM\OneDrive\Документы\Projects\VS13\FirstVM\FirstVMTester\bin\Release\FirstVMTester.pdb
+C:\Users\linki.LINKI_SYSTEM\OneDrive\Документы\Projects\VS13\FirstVM\FirstVMTester\bin\Release\FirstVM.dll
+C:\Users\linki.LINKI_SYSTEM\OneDrive\Документы\Projects\VS13\FirstVM\FirstVMTester\bin\Release\FirstVM.pdb
+C:\Users\linki.LINKI_SYSTEM\OneDrive\Документы\Projects\VS13\FirstVM\FirstVMTester\obj\Release\FirstVMTester.csprojResolveAssemblyReference.cache
+C:\Users\linki.LINKI_SYSTEM\OneDrive\Документы\Projects\VS13\FirstVM\FirstVMTester\obj\Release\FirstVMTester.exe
+C:\Users\linki.LINKI_SYSTEM\OneDrive\Документы\Projects\VS13\FirstVM\FirstVMTester\obj\Release\FirstVMTester.pdb
