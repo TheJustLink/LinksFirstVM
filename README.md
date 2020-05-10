@@ -1,2 +1,3 @@
 # LinksFirstVM
-BlaBlaBla
+My programming launguage..
+Links interpreter (:
